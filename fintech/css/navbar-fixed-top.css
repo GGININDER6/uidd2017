@@ -90,7 +90,7 @@ body {
 	text-align: center;
 }
 
-#home p{
+#fintech {
 	font-family: GILC____;
 	font-size: 140px;
 	color: #FFFFFF;
@@ -125,7 +125,7 @@ body {
 #experience {
 	width: 50%;
 	height: 10%;
-	margin: 8% 28% 0% 0%;
+	margin: 8% 40% 0% -8%;
 }
 
 #experience p{
